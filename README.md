@@ -1,3 +1,4 @@
+![logo](https://github.com/Snechavan/Snechavan/blob/main/desk-school-of-computer-science.png)
 <h1 align="center">Hi 👋, I'm Sneha Chavan</h1>
 <h3 align="center">"Self-taught developer, always learning and creating" 📚👨‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&s">
